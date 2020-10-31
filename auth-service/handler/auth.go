@@ -5,9 +5,9 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/arfandidts/dts-be-pendalaman-microservice/auth-service/database"
-	"github.com/arfandidts/dts-be-pendalaman-microservice/auth-service/util"
-	"github.com/arfandidts/dts-be-pendalaman-microservice/utils"
+	"github.com/arfandidts/dts-be-pendalaman-rest-api/auth-service/database"
+	"github.com/arfandidts/dts-be-pendalaman-rest-api/auth-service/util"
+	"github.com/arfandidts/dts-be-pendalaman-rest-api/utils"
 	"gorm.io/gorm"
 )
 

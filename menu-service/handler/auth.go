@@ -7,9 +7,9 @@ import (
 
 	"github.com/gorilla/context"
 
-	"github.com/arfandidts/dts-be-pendalaman-microservice/menu-service/config"
-	"github.com/arfandidts/dts-be-pendalaman-microservice/menu-service/entity"
-	"github.com/arfandidts/dts-be-pendalaman-microservice/utils"
+	"github.com/arfandidts/dts-be-pendalaman-rest-api/menu-service/config"
+	"github.com/arfandidts/dts-be-pendalaman-rest-api/menu-service/entity"
+	"github.com/arfandidts/dts-be-pendalaman-rest-api/utils"
 )
 
 type AuthMiddleware struct {

@@ -5,9 +5,9 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/arfandidts/dts-be-pendalaman-microservice/auth-service/config"
-	"github.com/arfandidts/dts-be-pendalaman-microservice/auth-service/database"
-	"github.com/arfandidts/dts-be-pendalaman-microservice/auth-service/handler"
+	"github.com/arfandidts/dts-be-pendalaman-rest-api/auth-service/config"
+	"github.com/arfandidts/dts-be-pendalaman-rest-api/auth-service/database"
+	"github.com/arfandidts/dts-be-pendalaman-rest-api/auth-service/handler"
 	"github.com/gorilla/mux"
 	"github.com/spf13/viper"
 	"gorm.io/driver/mysql"

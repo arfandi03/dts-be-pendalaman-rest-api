@@ -1,4 +1,10 @@
-/menu-service/menu-service
 /auth-service/config.yml
 /menu-service/config.yml
+/menu-service/menu-service
 /auth-service/auth-service
+/utils/go.mod
+/utils/go.sum
+/menu-service/go.mod
+/menu-service/go.sum
+/auth-service/go.mod
+/auth-service/go.sum
